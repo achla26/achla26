@@ -10,13 +10,13 @@ I’m a passionate **Full-Stack Developer** with a strong foundation in web tech
  
 I’m based in **New Zealand** and am actively exploring opportunities for professional growth.
 
----
+ 
 ## 👨‍💻 **What I Do**  
 - Build scalable web applications using **PHP (Laravel)**, **MERN stack**, **Node.js**, **React**, **Vue.js**, and **Next.js**.  
 - Design and manage databases with **MySQL**, **PostgreSQL**, and **MongoDB**.  
 - Optimize application performance and workflows with **Docker** and **NGINX**.  
 
----
+ 
 
 ## 🌟 **Current Interests**  
   
@@ -27,14 +27,14 @@ I’m based in **New Zealand** and am actively exploring opportunities for profe
 - 🐍 **Starting my Python journey** and laying the foundation for future projects.  
 - 🐳 **Deep diving into Docker** for better containerization practices.  
 
----
+ 
 
 ## 🚀 **Future Goals**  
 - Build a strong **LinkedIn** profile to reflect my journey and accomplishments.  
 - Transition into roles that combine **technical leadership** and **innovative problem-solving**.  
 - Deliver impactful projects that blend **creativity** with **functionality**.  
 
----
+ 
 
 
 ## 💼 **Tech Stack**  
@@ -44,32 +44,32 @@ I’m based in **New Zealand** and am actively exploring opportunities for profe
 - **Node.js** ⚡  
 
 
----
+ 
 
 ### 🎨 **Frontend Development**  
 - **React** ⚛️  
 - **Vue.js** 🌱  
 - **Next.js (App Router)** 🚀  
 
----
+ 
 
 ### 🌐 **Full Stack Expertise**  
 - **MERN Stack** 🌍  
 
----
+ 
 
 ### 🎨 **Styling & Animations**  
 - **Tailwind CSS** 🎨  
 - **Bootstrap** 🎨    
 
----
+ 
 
 ### 📊 **Databases**  
 - **MySQL** 🗄️  
 - **PostgreSQL** 🏢  
 - **MongoDB** 🌱  
 
----
+ 
 
 ### 🛠️ **Tools & Platforms**  
 - **GIT** 🐳  
@@ -94,19 +94,19 @@ I’m based in **New Zealand** and am actively exploring opportunities for profe
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
----
+ 
 
 ## 📞 **Contact Me**  
 
 **Feel free to connect with me on any of these platforms!**  
 I'm always excited to collaborate, chat, or assist on projects!
 
-- ✉️ **Email**: [your.email@example.com](mailto:achlar8@gmail.com)  
+- ✉️ **Email**: [your.email@example.com](mailto:your.email@example.com)  
 - 💼 **LinkedIn**: [Achla Rani](https://www.linkedin.com/in/achla-rani)  
 - 🐙 **GitHub**: [achla26](https://github.com/achla26)  
 - 🌐 **Portfolio**: [achla.42web.io](https://achla.42web.io/)  
 
----
+ 
 
 ## 🌟 **Let's Build Something Amazing Together!**  
 🚀 I'm always looking for new projects and challenges, so feel free to reach out if you have any ideas or want to collaborate!
