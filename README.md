@@ -34,19 +34,6 @@ I’m based in **New Zealand** and am actively exploring opportunities for profe
 - Transition into roles that combine **technical leadership** and **innovative problem-solving**.  
 - Deliver impactful projects that blend **creativity** with **functionality**.  
 
-
- 
-   <p align="left">
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/c/fknight">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
-
 ---
 
 
@@ -85,7 +72,7 @@ I’m based in **New Zealand** and am actively exploring opportunities for profe
 ---
 
 ### 🛠️ **Tools & Platforms**  
-- **Docker** 🐳  
+- **GIT** 🐳  
 *(Version control)*  
 - **Docker** 🐳  
 *(containerization power)*  
@@ -107,5 +94,35 @@ I’m based in **New Zealand** and am actively exploring opportunities for profe
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
+---
+
+## 📞 **Contact Me**  
+
+**Feel free to connect with me on any of these platforms!**  
+I'm always excited to collaborate, chat, or assist on projects!
+
+- ✉️ **Email**: [your.email@example.com](mailto:your.email@example.com)  
+- 💼 **LinkedIn**: [Achla Rani](https://www.linkedin.com/in/achla-rani)  
+- 🐙 **GitHub**: [achla26](https://github.com/achla26)  
+- 🌐 **Portfolio**: [achla.42web.io](https://achla.42web.io/)  
+
+---
+
+## 🌟 **Let's Build Something Amazing Together!**  
+🚀 I'm always looking for new projects and challenges, so feel free to reach out if you have any ideas or want to collaborate!
+
+#
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/achla-rani">
+    <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/achla26?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/achla26?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  </a>
+  <a href="https://github.com/achla26?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/achla26?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+  </a>
+</p>
 
 [website]: https://achla.42web.io/
