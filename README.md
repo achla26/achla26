@@ -101,7 +101,7 @@ I’m based in **New Zealand** and am actively exploring opportunities for profe
 **Feel free to connect with me on any of these platforms!**  
 I'm always excited to collaborate, chat, or assist on projects!
 
-- ✉️ **Email**: [your.email@example.com](mailto:your.email@example.com)  
+#- ✉️ **Email**: [your.email@example.com](mailto:your.email@example.com)  
 - 💼 **LinkedIn**: [Achla Rani](https://www.linkedin.com/in/achla-rani)  
 - 🐙 **GitHub**: [achla26](https://github.com/achla26)  
 - 🌐 **Portfolio**: [achla.42web.io](https://achla.42web.io/)  
