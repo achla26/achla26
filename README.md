@@ -1,10 +1,12 @@
 # 🌟 Welcome to My GitHub!
 
-**`ACHLA RANI (Web Developer)`**
+**`ACHLA RANI (Full Stack Web Developer)`**
 
 ## 👋 Hello, I'm Achla!
 
 I’m a passionate **Full-Stack Developer** with a strong foundation in web technologies, currently working on expanding my skills in various exciting areas. I have a Master of Computer Applications (MCA) and am always eager to learn, build, and collaborate on impactful projects.  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=achla26)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🌍 Life Update:
  
